@@ -1,49 +1,41 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<!DOCTYPE plist PUBLIC '-//Apple//DTD PLIST 1.0//EN' 'http://www.apple.com/DTDs/PropertyList-1.0.dtd'>
-<plist version='1.0'>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
 <dict>
 	<key>items</key>
 	<array>
 		<dict>
-		<key>assets</key>
-		<array>
-			<dict>
-			<key>kind</key>
-			<string>software-package</string>
-			<key>url</key>
-			<string>https://www.wyuq.com/data/attachment/1-1539868896.ipa</string>
-			</dict>
-			<dict>
-			<key>kind</key>
-			<string>display-image</string>
-			<key>needs-shine</key>
-			<true/>
-			<key>url</key>
-			<string>https://www.wyuq.com/data/attachment/1-1539868896.png</string>
-			</dict>
-			<dict>
-			<key>kind</key>
-			<string>full-size-image</string>
-			<key>needs-shine</key>
-			<true/>
-			<key>url</key>
+			<key>assets</key>
+			<array>
+				<dict>
+					<key>kind</key>
+					<string>software-package</string>
+					<key>url</key>
+					<string>https://www.wyuq.com/data/attachment/1-1539868896.ipa</string>
+				</dict>
+				<dict>
+					<key>kind</key>
+					<string>display-image</string>
+					<key>needs-shine</key>
+					<true/>
+					<key>url</key>
 					<string>https://www.wyuq.com/data/attachment/1-1539868896.png</string>
-			</dict>
+				</dict>
 			</array>
-				<key>metadata</key>
+			<key>metadata</key>
 			<dict>
-			<key>bundle-identifier</key>
+				<key>bundle-identifier</key>
 				<string>com.lnsoft.jiankangguanli</string>
-			<key>bundle-version</key>
+				<key>bundle-version</key>
 				<string>1.0</string>
-			<key>kind</key>
+				<key>kind</key>
 				<string>software</string>
-			<key>subtitle</key>
-				<string>正在安装^v^</string>
-			<key>title</key>
+				<key>subtitle</key>
+				<string>App Subtitle</string>
+				<key>title</key>
 				<string>王者娱乐电玩城</string>
 			</dict>
-			</dict>
-			</array>
-	</dict>
-	</plist>
+		</dict>
+	</array>
+</dict>
+</plist>
